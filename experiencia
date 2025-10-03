@@ -1,2 +1,6 @@
-Me llamo David y estamos haciendo la tarea grupal.
-Hola David soy alfonso
+Resumen:
+
+Se ha realizado un repositorio nuevo en GitHub donde se ha creado un archivo nuevo llamado experiencia.md. 
+Se ha pasa de forma local a cada uno de los miembros del grupos en el que se ha modificado y se ha hecho commit
+para posteriormente hacer cada uno de los miembros su rama con la modificación.
+Se hace merge intentando crear conflicto entre las ramas y el main.
